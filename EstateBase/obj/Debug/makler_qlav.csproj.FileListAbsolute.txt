@@ -1,0 +1,1352 @@
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\makler_qlav.exe.config
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.DemoData.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Tutorials.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.Login.resources
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.Main.resources
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.Form2.resources
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.exe.licenses
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\MetroFramework.Design.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\MetroFramework.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Araz\Desktop\makler1\TelKn\TelKn\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\makler_qlav.exe.config
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.DemoData.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Tutorials.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\MetroFramework.Design.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\MetroFramework.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.Login.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.Main.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.Form2.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.exe.licenses
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\EstateBase\TelKn\obj\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\makler_qlav.exe.config
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.DemoData.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Tutorials.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\MetroFramework.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.Login.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.Main.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.Form2.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.exe.licenses
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\makler1\EstateBase\EstateBase\obj\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\makler_qlav.exe.config
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.DemoData.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Tutorials.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\MetroFramework.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.Login.resources
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.Main.resources
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.Form2.resources
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.exe.licenses
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.exe
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.pdb
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\makler.mdf
+C:\Users\Araz\Desktop\EstateBase\EstateBase\bin\Debug\makler_log.ldf
+C:\Users\Araz\Desktop\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Login.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Form2.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.pdb
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\makler.mdf
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\makler_log.ldf
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.exe.config
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.pdb
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Main.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.exe.licenses
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\makler.mdf
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\makler_log.ldf
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.exe.config
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\makler_qlav.pdb
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Mvvm.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Login.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Main.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Form2.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.exe.licenses
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase\EstateBase\EstateBase\EstateBase\obj\Debug\makler_qlav.pdb
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\makler.mdf
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\makler_log.ldf
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\makler_qlav.exe.config
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\makler_qlav.pdb
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Mvvm.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Krypton.Toolkit.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Mvvm.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.Login.resources
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.Main.resources
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.Form2.resources
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.SaveEdit.resources
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.Properties.Resources.resources
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.exe.licenses
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.csproj.CopyComplete
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.exe
+C:\Users\ASUS\Desktop\EstateBase-main (1)\EstateBase-main\EstateBase\obj\Debug\makler_qlav.pdb
